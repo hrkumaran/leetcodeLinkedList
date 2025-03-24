@@ -1,5 +1,3 @@
-package com.google.tryit.ds.leetcode;
-
 public class MergeTwoSortedLists {
     public ListNode mergeTwoLists(ListNode list1, ListNode list2) {
         ListNode temporaryNode = new ListNode(0);

@@ -1,5 +1,3 @@
-package com.google.tryit.ds.leetcode;
-
 public class mergeKLists {
     public ListNode mergeKLists(ListNode[] lists) {
         if(lists==null || lists.length==0) return null;

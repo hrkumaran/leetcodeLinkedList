@@ -1,5 +1,3 @@
-package com.google.tryit.ds.leetcode;
-
 public class FindCountofEvenOdd {
 
     public static void main(String args[])
