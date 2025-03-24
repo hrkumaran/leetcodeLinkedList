@@ -1,5 +1,3 @@
-package com.google.tryit.ds.leetcode;
-
 public class SwapNodesinPairs {
     public ListNode swapPairs(ListNode head) {
         if(head==null) return null;

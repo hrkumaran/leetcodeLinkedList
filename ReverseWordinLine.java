@@ -1,5 +1,3 @@
-package com.google.tryit.ds.leetcode;
-
 import com.google.tryit.ds.Stack;
 
 public class ReverseWordinLine {

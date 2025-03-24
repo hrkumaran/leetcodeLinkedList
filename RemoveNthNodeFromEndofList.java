@@ -1,5 +1,3 @@
-package com.google.tryit.ds.leetcode;
-
 public class RemoveNthNodeFromEndofList {
     public ListNode removeNthFromEnd(ListNode head, int n) {
         ListNode temporaryNode = new ListNode(0,head);
